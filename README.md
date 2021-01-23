@@ -1,2 +1,2 @@
-# horiseon-code_refactor
-Accessibility code refactor - Homework 1
+# hw1-semantic_code_refactor
+Semantic code refactor for first homework assignement.
