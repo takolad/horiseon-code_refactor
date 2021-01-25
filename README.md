@@ -5,7 +5,7 @@
     Technologies used include **HTML** and **CSS**.
     
 ## Site Screenshot
-    ![Site screenshot](assets/images/site_screenshot.png)
+   ![Site screenshot](assets/images/site_screenshot.png)
     
 ## Site Link
    Link to [Horiseon](https://takolad.github.io/hw1-semantic_code_refactor/).
