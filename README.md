@@ -1,4 +1,4 @@
-# hw1-semantic\_code\_refactor
+# semantic-code-refactor
 
 ## Description
     This project is a *semanic code refactor* for better accessibility of a website based around search engine optimization and social media.
@@ -8,7 +8,7 @@
    ![Site screenshot](assets/images/site_screenshot.png)
     
 ## Site Link
-   Link to [Horiseon](https://takolad.github.io/hw1-semantic_code_refactor/).
+   Link to [Horiseon](https://takolad.github.io/semantic-code-refactor/).
 
 ## License
     MIT License
